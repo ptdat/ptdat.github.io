@@ -10,6 +10,10 @@
     "toggle": {
       "label": { "en": "Language", "vi": "Ngôn ngữ" }
     },
+    "cta": {
+      "detail": { "en": "Detail", "vi": "Chi tiết" },
+      "home": { "en": "Home", "vi": "Trang chủ" }
+    },
     "footer": {
       "en": "Built with Unity passion. © 2026 Pham Thanh Dat.",
       "vi": "Xây dựng bằng đam mê Unity. © 2026 Phạm Thành Đạt."
