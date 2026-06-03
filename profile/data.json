@@ -1,0 +1,84 @@
+{
+  "site": {
+    "defaultLang": "en",
+    "languages": ["en", "vi"]
+  },
+  "ui": {
+    "nav": {
+      "about": { "en": "About", "vi": "Giới thiệu" }
+    },
+    "toggle": {
+      "label": { "en": "Language", "vi": "Ngôn ngữ" }
+    },
+    "footer": {
+      "en": "Built with Unity passion. © 2026 Pham Thanh Dat.",
+      "vi": "Xây dựng bằng đam mê Unity. © 2026 Phạm Thành Đạt."
+    }
+  },
+  "profile": {
+    "name": {
+      "en": "Pham Thanh Dat",
+      "vi": "Phạm Thành Đạt"
+    },
+    "initials": "PTD",
+    "title": {
+      "en": "Game Developer · Unity Specialist",
+      "vi": "Lập trình viên Game · Chuyên gia Unity"
+    },
+    "tagline": {
+      "en": "10+ years crafting games with Unity",
+      "vi": "Hơn 10 năm kiến tạo game cùng Unity"
+    },
+    "location": {
+      "en": "Vietnam",
+      "vi": "Việt Nam"
+    },
+    "status": {
+      "en": "Available for projects",
+      "vi": "Sẵn sàng cho dự án mới"
+    },
+    "about": {
+      "heading": { "en": "About me", "vi": "Về tôi" },
+      "paragraphs": {
+        "en": [
+          "I'm Pham Thanh Dat, a game developer with over a decade of hands-on experience building games with Unity. From rapid prototypes to shipped titles, I turn ideas into playable, polished experiences.",
+          "My focus is gameplay programming and systems architecture — bringing core mechanics, custom tools, and performance-minded code together so teams can iterate fast and players stay immersed.",
+          "Across 10+ years I've shipped projects on mobile, PC, and console, mentored developers, and shaped pipelines that keep production smooth from first commit to launch day."
+        ],
+        "vi": [
+          "Tôi là Phạm Thành Đạt, một lập trình viên game với hơn 10 năm kinh nghiệm thực chiến phát triển game bằng Unity. Từ bản prototype nhanh đến các tựa game đã phát hành, tôi biến ý tưởng thành trải nghiệm chơi được và chỉn chu.",
+          "Thế mạnh của tôi là lập trình gameplay và kiến trúc hệ thống — kết hợp cơ chế cốt lõi, công cụ tùy biến và mã nguồn tối ưu hiệu năng để đội ngũ lặp nhanh và người chơi luôn cuốn hút.",
+          "Hơn 10 năm qua, tôi đã phát hành các dự án trên mobile, PC và console, dẫn dắt lập trình viên và xây dựng quy trình giúp quá trình sản xuất trơn tru từ commit đầu tiên đến ngày ra mắt."
+        ]
+      }
+    },
+    "highlights": [
+      {
+        "value": "10+",
+        "label": { "en": "Years with Unity", "vi": "Năm với Unity" }
+      },
+      {
+        "value": "Unity",
+        "label": { "en": "Primary engine", "vi": "Engine chính" }
+      },
+      {
+        "value": "C#",
+        "label": { "en": "Core language", "vi": "Ngôn ngữ chính" }
+      },
+      {
+        "value": "3",
+        "label": { "en": "Platforms shipped", "vi": "Nền tảng đã phát hành" }
+      }
+    ],
+    "focus": {
+      "heading": { "en": "Focus areas", "vi": "Lĩnh vực trọng tâm" },
+      "tags": [
+        { "en": "Gameplay Programming", "vi": "Lập trình Gameplay" },
+        { "en": "Systems Architecture", "vi": "Kiến trúc hệ thống" },
+        { "en": "Performance Optimization", "vi": "Tối ưu hiệu năng" },
+        { "en": "Tools & Pipelines", "vi": "Công cụ & Quy trình" },
+        { "en": "Mobile / PC / Console", "vi": "Mobile / PC / Console" }
+      ]
+    }
+  }
+}
